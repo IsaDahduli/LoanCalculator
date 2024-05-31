@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="welcome">Welcome</string>
+    <string name="loan_amount">Loan Amount:</string>
+    <string name="enter_loan_amount">Enter Loan Amount:</string>
+    <string name="loan_interest">Loan Interest %:</string>
+    <string name="enter_loan_interest">Enter Loan Interest %:</string>
+    <string name="months_to_pay">Months to pay:</string>
+    <string name="enter_months">Enter the number of Months:</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="monthly_payment">Monthly Payment:</string>
+</resources>
